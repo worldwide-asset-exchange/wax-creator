@@ -20,7 +20,7 @@ A typical error response may look like this:
 }
 ```
 
-## API key
+## API Key
 Steps to get an API Key:
  - Visit [WAX All Access](https://all-access.wax.io/account/security) and make sure you have 2FA enabled for your account.
  - Login into [WAX Creator](https://creator.wax.io) with your WAX All Access account.
