@@ -21,8 +21,8 @@ A typical error response may look like this:
 ```
 
 ## API key
-Steps to get an API key:
+Steps to get an API Key:
  - Visit [WAX All Access](https://all-access.wax.io/account/security) and make sure you have 2FA enabled for your account.
  - Login into [WAX Creator](https://creator.wax.io) with your WAX All Access account.
- - Visit the [User Account](https://creator.wax.io/user) page on WAX Creator to generate or revoke your API key.
- - Keep your API key safe and never share it with anyone!
+ - Visit the [User Account](https://creator.wax.io/user) page on WAX Creator to generate or revoke your API Key.
+ - Keep your API Key safe and never share it with anyone!
