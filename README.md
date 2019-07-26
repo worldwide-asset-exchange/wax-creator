@@ -30,5 +30,5 @@ Steps to get an API Key:
 ## Related API's
 If you are building a dApp, a website or a game using WAX Creator, you can make use of other WAX Services to power up your application:
  - [OAuth Implementation](https://docs.opskins.com/public/en.html#oauth) - Allows you to add a 'Login via WAX' button in your application and interact with the user's account using WAX Trade and OPSkins API's.
- - [WAX Trade API](https://github.com/OPSkins/trade-opskins-api) - May be used to retrieve user's inventory, manage trade offers, see meta-data of WAX NFT's, and much more.
+ - [WAX Trade API](https://github.com/OPSkins/trade-opskins-api) - May be used to retrieve user's inventory, manage trade offers, see meta-data of WAX NFT's, and much more. *Important*: to retrieve unique item data (like random attributes), you must use WAX Trade v2 endpoints.
  - [OPSkins API](https://docs.opskins.com/public/en.html#opskins-api-v2) - May be used to purchase or sell items on OPSkins, check lowest prices of items, handle cashouts, and much more.
